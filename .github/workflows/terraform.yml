@@ -81,6 +81,6 @@ jobs:
 
     - name: Terraform Destroy
 
-      id: apple
+      id: apple11
       run: terraform destroy -auto-approve -input=false
 
