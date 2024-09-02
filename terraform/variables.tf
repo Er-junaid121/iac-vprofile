@@ -7,5 +7,5 @@ variable "region" {
 variable "clusterName" {
   description = "Vprofile"
   type        = string
-  default     = "kitops-eks"
+  default     = "vprofile-eks"
 }
